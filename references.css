@@ -1,0 +1,100 @@
+#a /* This was used to make the navigation bar */
+{
+	font-family: Impact;
+	color: white;
+	font-style: italic;
+	background-color: #60442F;
+	height: 65px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	Font-Size: 1.60em;
+	Text-indent: 260px;
+}
+#b 
+{
+	top:0;
+	left:0;
+	position: absolute;
+	border-style: solid;
+	border-width: 5px;
+	border-color:#515A5A;
+}
+#c 
+{
+	position: absolute;
+	top: 40px;
+	font-size: 2em;
+	color: #CCD1D1;
+	left: 700px;
+	font-family: Arnoldboecklin, fantasy;
+	font-style: Italic;
+}
+h2 
+{
+	padding-left: 360px;
+	text-decoration: underline;
+	font-style: Italic;
+}
+#d 
+{ 
+	position: absolute;
+	top: 40px;
+	font-size: 2em;
+	color: #CCD1D1;
+	left: 800px;
+	font-family: Arnoldboecklin, fantasy;
+	font-style: Italic;
+}
+#e 
+{
+	position: absolute;
+	top: 40px;
+	font-size: 2em;
+	color: #CCD1D1;
+	left: 925px;
+	font-family: Arnoldboecklin, fantasy;
+	font-style: Italic;
+}
+#f 
+{
+	position: absolute;
+	top: 40px;
+	font-size: 2em;
+	color: #CCD1D1;
+	left: 1045px;
+	font-family: Arnoldboecklin, fantasy;
+	font-style: Italic;
+}
+#y
+{
+	font-family: Impact;
+	color: white;
+	font-style: italic;
+	background-color: #60442F;
+	height: 65px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	Font-Size: 1.60em;
+	Text-indent: 260px;
+}
+#z
+{
+	top:0;
+	left:0;
+	position: absolute;
+	border-style: solid;
+	border-width: 5px;
+	border-color:#515A5A;
+}
+li /* This was used to make the navigation bar */
+{
+	font-size: 1.50em;
+}
+ul
+{
+	padding-left: 360px;
+}
